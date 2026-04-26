@@ -17,29 +17,24 @@ A Kubernetes cluster is divided into two main parts: the **Control Plane** (deci
 
 ```mermaid
 flowchart TD
-    subgraph ControlPlane ["️ Control Plane"]
+    subgraph ControlPlane["Control Plane"]
         API["API Server (6443)"]
         ETCD["etcd (2379)"]
         SCH["Scheduler"]
         CM["Controller Manager"]
     end
 
-    subgraph WorkerNodes ["️ Worker Nodes"]
+    subgraph WorkerNodes["Worker Nodes"]
         Node1["Node 1"]
         Node2["Node 2"]
     end
 
-    User((👤 Admin)) -->|kubectl| API
+    User((Admin)) -->|kubectl| API
     API <--> ETCD
     API --> SCH
     API --> CM
-    API <-->|kubelet (10250)| Node1
-    API <-->|kubelet (10250)| Node2
-    
-    style ControlPlane fill:#1e3a8a,stroke:#3b82f6,stroke-width:2px,color:#fff
-    style WorkerNodes fill:#312e81,stroke:#6366f1,stroke-width:2px,color:#fff
-    style API fill:#10b981,stroke:#34d399,color:#fff
-```
+    API --> Node1
+    API --> Node2
 
 ---
 
