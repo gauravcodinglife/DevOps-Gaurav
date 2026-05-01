@@ -66,21 +66,25 @@ Documenting my journey mastering Cloud DevOps through **daily hands-on practice*
 
 ## 🔒 Security Best Practices Implemented
 
-```bash
-✅ No hardcoded AWS credentials in scripts
-✅ IAM roles with least-privilege permissions
-✅ SigV4 request signing for API calls
-✅ CloudShell managed sessions for authentication
-✅ Region-specific resource deployment
-✅ CloudTrail logging for audit compliance
-'''
----
-📄 License
-This repository is open source and available under the MIT License.
----
----
-<div align="center">
-⭐ If you found this helpful, consider starring the repository!
-Built with ☁️ and 🚀 by Gaurav
+- ✅ No hardcoded AWS credentials in scripts
+- ✅ IAM roles with least-privilege permissions
+- ✅ SigV4 request signing for API calls
+- ✅ CloudShell managed sessions for authentication
+- ✅ Region-specific resource deployment
+- ✅ CloudTrail logging for audit compliance
 
-</div> ```
+---
+
+## 📄 License
+
+This repository is open source and available under the [MIT License](LICENSE).
+
+---
+
+<div align="center">
+
+### ⭐ If you found this helpful, consider starring the repository!
+
+**Built with ☁️ and 🚀 by Gaurav**
+
+</div>
