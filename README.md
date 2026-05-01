@@ -73,3 +73,12 @@ Documenting my journey mastering Cloud DevOps through **daily hands-on practice*
 ✅ CloudShell managed sessions for authentication
 ✅ Region-specific resource deployment
 ✅ CloudTrail logging for audit compliance
+
+📄 License
+This repository is open source and available under the MIT License.
+
+<div align="center">
+⭐ If you found this helpful, consider starring the repository!
+Built with ☁️ and 🚀 by Gaurav
+
+</div> ```
