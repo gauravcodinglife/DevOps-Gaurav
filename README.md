@@ -15,10 +15,9 @@ Passionate **Cloud DevOps Engineer** with hands-on experience in building secure
 
 This repository documents my **practical learning journey** with real-world implementations, security best practices, and production-grade solutions.
 
----
-
 <img width="2688" height="1536" alt="image" src="https://github.com/user-attachments/assets/f7400593-b9cc-4418-b7bf-cc777c878cdc" />
 
+---
 
 ## 🛠 Technical Skills
 
