@@ -1,4 +1,4 @@
-👋 DevOps-Gaurav
+👋 Cloud&DevOps-Gaurav
 
 ### 🔧 Cloud DevOps Engineer | AWS | Kubernetes | CI/CD | Infrastructure as Code
 
@@ -42,7 +42,7 @@ This repository documents my **practical learning journey** with real-world impl
 - ✅ Demonstrated SigV4 request signing & IAM role assumption
 - ✅ Validated region-aware infrastructure deployment
 
-📄 **[View Documentation →](./cloudshell-practical.md)**
+**[View Documentation →](./cloudshell-practical.md)**
 
 ---
 
