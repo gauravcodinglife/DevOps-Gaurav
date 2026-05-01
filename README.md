@@ -1,5 +1,4 @@
-```markdown
-# 👋 Cloud&DevOps-Gaurav
+👋 Cloud&DevOps-Gaurav
 
 ### 🔧 Cloud DevOps Engineer | AWS | Kubernetes | CI/CD | Infrastructure as Code
 
@@ -15,6 +14,8 @@
 Passionate **Cloud DevOps Engineer** with hands-on experience in building secure, scalable, and automated cloud infrastructure. Focused on **AWS, Kubernetes, CI/CD pipelines, and Infrastructure as Code**.
 
 This repository documents my **practical learning journey** with real-world implementations, security best practices, and production-grade solutions.
+
+<img width="2688" height="1536" alt="image" src="https://github.com/user-attachments/assets/f7400593-b9cc-4418-b7bf-cc777c878cdc" />
 
 ---
 
@@ -33,24 +34,44 @@ This repository documents my **practical learning journey** with real-world impl
 
 ---
 
+## 📂 Featured Projects
+
+### 🔐 1. Secure AWS CloudShell Operations
+**Focus:** IAM Security, S3 Operations, Secretless CLI Authentication
+
+- ✅ Implemented secretless AWS CLI operations using CloudShell
+- ✅ Eliminated hardcoded credentials from scripts
+- ✅ Demonstrated SigV4 request signing & IAM role assumption
+- ✅ Validated region-aware infrastructure deployment
+
+**[View Documentation →](./cloudshell-practical.md)**
+
 ---
 
-## 📊 GitHub Stats
+### ⚙️ 2. Kubernetes Architecture Design
+**Focus:** Container Orchestration, Cluster Design, Scaling
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauravcodinglife&show_icons=true&theme=dark)
+- ✅ Designed production-ready K8s cluster architecture
+- ✅ Implemented pod security policies & network policies
+- ✅ Configured HPA for auto-scaling workloads
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravcodinglife&layout=compact&theme=dark)
+ **[View Documentation →](./kubernetes-architecture.md)**
 
----
+## 📈 Learning Journey
 
-## 📬 Connect With Me
+### #90DaysOfCloudDevOps Challenge
 
-| Platform | Link |
-| :--- | :--- |
-| 💼 LinkedIn | [linkedin.com/in/gaurav-chavan-codinglife](https://www.linkedin.com/in/gaurav-chavan-codinglife) |
-| 🐙 GitHub | [github.com/gauravcodinglife](https://github.com/gauravcodinglife) |
-| ✍️ Medium | [medium.com/@codinggaurav85](https://medium.com/@codinggaurav85) |
-| 📧 Email | [codinggaurav85@gmail.com](mailto:codinggaurav85@gmail.com) |
+Documenting my journey mastering Cloud DevOps through **daily hands-on practice**:
+
+
+## 🔒 Security Best Practices Implemented
+
+- ✅ No hardcoded AWS credentials in scripts
+- ✅ IAM roles with least-privilege permissions
+- ✅ SigV4 request signing for API calls
+- ✅ CloudShell managed sessions for authentication
+- ✅ Region-specific resource deployment
+- ✅ CloudTrail logging for audit compliance
 
 ---
 
@@ -67,4 +88,3 @@ This repository is open source and available under the [MIT License](LICENSE).
 **Built with ☁️ and 🚀 by Gaurav**
 
 </div>
-```
