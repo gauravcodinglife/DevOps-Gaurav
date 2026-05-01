@@ -68,5 +68,3 @@ This repository is open source and available under the [MIT License](LICENSE).
 
 </div>
 ```
-
-Your profile is now fully linked and ready for recruiters! 🚀
