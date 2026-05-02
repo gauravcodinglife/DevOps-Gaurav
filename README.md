@@ -57,6 +57,33 @@ This repository documents my **practical learning journey** with real-world impl
 
  **[View Documentation →](./kubernetes-architecture.md)**
 
+ ---
+
+ ### 📋 3. Agile Project Management with Jira
+**Focus:** Scrum Methodology, Sprint Planning, Task Tracking
+
+- ✅ Organized DevOps learning using Agile/Scrum practices
+- ✅ Managed sprint board with TO DO → IN PROGRESS → TESTING → DONE
+- ✅ Tracked 10+ tasks with proper labels and priorities
+- ✅ Demonstrated self-management and workflow optimization
+
+📄 **[View Documentation →](./jira-practical.md)**
+
+---
+
+### 🚀 4. Production CI/CD Pipeline with GitLab
+**Focus:** Secure Variable Management, Runners, Artifacts, DockerHub Integration
+
+- ✅ Configured Masked + Protected CI/CD Variables for credentials
+- ✅ Built multi-stage pipeline: build → test → push
+- ✅ Managed Artifacts for build and test job outputs
+- ✅ Configured GitLab Runner with tags (dev)
+- ✅ Debugged failed pipelines and fixed YAML syntax errors
+- ✅ Implemented security best practices (no hardcoded credentials)
+
+📄 **[View Documentation →](./gitlab-cicd-practical.md)**
+
+
 ## 📈 Learning Journey
 
 ### #90DaysOfCloudDevOps Challenge
