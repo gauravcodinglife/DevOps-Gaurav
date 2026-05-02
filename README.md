@@ -77,7 +77,7 @@ Documenting my journey mastering Cloud DevOps through **daily hands-on practice*
 
 ## 📄 License
 
-This repository is open source and available under the [MIT License](LICENSE).
+This repository is open source and available .
 
 ---
 
