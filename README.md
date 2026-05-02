@@ -44,7 +44,7 @@ This repository documents my **practical learning journey** with real-world impl
 - ✅ Demonstrated SigV4 request signing & IAM role assumption
 - ✅ Validated region-aware infrastructure deployment
 
-**[View Documentation →](./cloudshell-practical.md)**
+📄 **[View Documentation →](./cloudshell-practical.md)**
 
 ---
 
@@ -55,7 +55,7 @@ This repository documents my **practical learning journey** with real-world impl
 - ✅ Implemented pod security policies & network policies
 - ✅ Configured HPA for auto-scaling workloads
 
- **[View Documentation →](./kubernetes-architecture.md)**
+ 📄 **[View Documentation →](./kubernetes-architecture.md)**
 
  ---
 
@@ -83,6 +83,7 @@ This repository documents my **practical learning journey** with real-world impl
 
 📄 **[View Documentation →](./gitlab-cicd-practical.md)**
 
+---
 
 ## 📈 Learning Journey
 
