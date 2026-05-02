@@ -83,8 +83,6 @@ This repository documents my **practical learning journey** with real-world impl
 
 📄 **[View Documentation →](./gitlab-cicd-practical.md)**
 
----
-
 ## 📈 Learning Journey
 
 ### #90DaysOfCloudDevOps Challenge
